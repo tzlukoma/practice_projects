@@ -1,8 +1,7 @@
-img {
-	width:100px;
-	height:100px;
+p {
+	color: red;
 }
 
-table, td {
-	border: 1px #70b8ff dashed;
+span {
+	color: blue;
 }
